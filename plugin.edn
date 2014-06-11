@@ -1,0 +1,6 @@
+{:name "frecency_list"
+ :version "0.0.1"
+ :author ""
+ :source ""
+ :desc ""
+ :behaviors "frecency_list.behaviors"}

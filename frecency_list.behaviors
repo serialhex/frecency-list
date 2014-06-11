@@ -1,0 +1,2 @@
+{:+ {:app [(:lt.objs.plugins/load-js "frecency_list_compiled.js")]
+     :frecency-list.hello [:lt.plugins.frecency-list/on-close-destroy]}}
